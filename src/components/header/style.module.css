@@ -1,0 +1,11 @@
+.headerBox {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  margin-top: 1.0625rem;
+}
+
+.divBox {
+  display: flex;
+  gap: 4.375rem;
+}

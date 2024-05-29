@@ -1,0 +1,15 @@
+.link {
+  background-color: var(--color-primary);
+  border-radius: 0.625rem;
+  padding: 0.3125rem 1.25rem;
+}
+
+.link:hover {
+  background-color: var(--color-primary-hover);
+  cursor: pointer;
+}
+
+.label:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}

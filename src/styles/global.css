@@ -1,0 +1,14 @@
+:root {
+  --font-primary: "Inter" . sans-serif;
+  --color-primary: #6880ff;
+  --color-primary-hover: #7c91ff;
+  --color-greyScale-balck: #000000;
+  --color-greyScale-white: #ffffff;
+}
+
+body {
+  background-color: var(--color-greyScale-balck);
+  color: var(--color-greyScale-white);
+  width: 56.25rem;
+  margin: 0 auto;
+}

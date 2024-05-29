@@ -1,0 +1,12 @@
+.divSobre {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  margin-top: 5rem;
+  gap: 6.25rem;
+}
+
+.pSobre {
+  line-height: 1.875rem;
+  width: 36.75rem;
+}

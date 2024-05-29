@@ -1,0 +1,24 @@
+.liCard {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 1.875rem;
+  border: 0.0625rem solid var(--color-greyScale-white);
+  border-radius: 1rem;
+  width: 440px;
+  padding: 1.25rem 0rem 1.25rem 1.25rem;
+}
+
+.aCard {
+  color: var(--color-primary);
+}
+
+.aCard:hover {
+  color: var(--color-primary-hover);
+}
+
+.imgPosition {
+  position: relative;
+  top: -150px;
+  left: 385px;
+}
